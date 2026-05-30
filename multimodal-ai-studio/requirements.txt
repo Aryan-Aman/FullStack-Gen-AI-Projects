@@ -1,0 +1,8 @@
+streamlit
+google-genai
+huggingface_hub
+python-dotenv
+Pillow
+requests
+pyttsx3
+opencv-python

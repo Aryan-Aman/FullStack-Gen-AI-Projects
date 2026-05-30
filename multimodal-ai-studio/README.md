@@ -3,6 +3,9 @@
 A Streamlit application covering six AI modalities (text, image, audio, video) with provider selection and automatic fallback. Uses Google Gemini, OpenRouter, and Hugging Face APIs.
 
 ---
+## Demo Video
+
+Watch the demo here: [Multimodal AI Studio Demo]((https://youtu.be/WtX7yKJtHqg))
 
 ## Project Scope
 

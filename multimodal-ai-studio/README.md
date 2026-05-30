@@ -5,7 +5,7 @@ A Streamlit application covering six AI modalities (text, image, audio, video) w
 ---
 ## Demo Video
 
-Watch the demo here: [Multimodal AI Studio Demo]((https://youtu.be/WtX7yKJtHqg))
+Watch the demo here: [Multimodal AI Studio Demo](https://youtu.be/WtX7yKJtHqg)
 
 ## Project Scope
 
